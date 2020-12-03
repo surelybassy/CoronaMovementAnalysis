@@ -1,6 +1,7 @@
 # CoronaMovementAnalysis
 Tableau Visualisation Project.
 
+![A Tale of 2 Lockdowns](Images/TaleOf2Lockdowns_1.png)
 
 ## Project
 
@@ -15,12 +16,20 @@ Facebook Data for Good - Movement Trends. https://visualization.covid19mobility.
 
 Covid-19 Daily New Cases. https://ourworldindata.org/coronavirus-source-data
 
+![A Tale of 2 Lockdowns](Images/TaleOf2Lockdowns_2.png)
+
 ## Analysis
 
+![A Tale of 2 Lockdowns](Images/TaleOf2Lockdowns_3.png)
 
 ## Findings
 
+![A Tale of 2 Lockdowns](Images/TaleOf2Lockdowns_4.png)
 
-## Documents
+## Conclusion
+
+![A Tale of 2 Lockdowns](Images/TaleOf2Lockdowns_5.png)
+
+
 
 
