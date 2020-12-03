@@ -1,5 +1,5 @@
-# Corona Movement Analysis
-Tableau Visualisation Project.
+# Covid-19 Movement Analysis
+### Tableau Visualisation Project.
 
 ![A Tale of 2 Lockdowns](Images/TaleOf2Lockdowns_1.png)
 
