@@ -4,9 +4,9 @@ Tableau Visualisation Project.
 
 ## Project
 
-Exploring the change in people's movement patterns in 2020, with Covid-19 restrictions.
+Explore the change in people's movement patterns in 2020, with Covid-19 restrictions, visualising the data to tell a story
 
-Looking at different approaches and restrictions used by France and Germany, comparing how people responded to different levels of enforcement.
+We decided to look at the different approaches and restrictions used by France and Germany, comparing how people responded to different levels of enforcement.
 
 
 ## Data
